@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "763305689379",
+    "project_id": "app-sobral",
+    "storage_bucket": "app-sobral.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763305689379:android:9d428f08d5e59bea32cc96",
+        "android_client_info": {
+          "package_name": "com.example.sobral_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjAxG3l4W0pfiPUNBKDujxFo0AXmQjJFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
