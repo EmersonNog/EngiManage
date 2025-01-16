@@ -4,7 +4,6 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 
 class UserService {
   static Future<String?> getUserAccessLevel() async {
-    // Supondo que o nível de acesso esteja armazenado no Firestore
     final user = FirebaseAuth.instance.currentUser;
     if (user != null) {
       final userDoc = await FirebaseFirestore.instance
